@@ -1,0 +1,19 @@
+{
+  "name": "echart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "china": "0.0.1",
+    "echarts": "^4.6.0",
+    "echarts-for-react": "^2.0.15-beta.1",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "react-router-dom": "^5.1.2"
+  }
+}
